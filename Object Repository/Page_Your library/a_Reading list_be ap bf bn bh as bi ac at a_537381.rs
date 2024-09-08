@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reading list_be ap bf bn bh as bi ac at a_537381</name>
+   <tag></tag>
+   <elementGuidId>f76722a1-ff03-4a64-bd23-c9d4b97fc02b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[3]/div/main/div/div/div/div[3]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;UI/UX&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d534176a-a6b8-484d-bc65-591e7e890f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>be ap bf bn bh as bi ac at au av aw ax ay az cq vr</value>
+      <webElementGuid>88e5591d-e180-420a-9242-e7e0134731b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>UI/UX</value>
+      <webElementGuid>0082a145-f0ef-4d24-bd4b-6a6fb787c76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener follow</value>
+      <webElementGuid>7e0d6e92-efcb-402e-b203-6da36c000fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/@rakhacimano/list/uiux-4a3ab6b0a791?source=my_lists---------1-------4a3ab6b0a791---------------------</value>
+      <webElementGuid>3cbe8b60-89fe-4b58-861d-85dcb5c4309f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;cu cv x&quot;]/div[@class=&quot;n cw cx&quot;]/main[@class=&quot;cy cz da db dc dd x de&quot;]/div[@class=&quot;td x&quot;]/div[@class=&quot;n p&quot;]/div[@class=&quot;df m dg dh di dj&quot;]/div[3]/div[@class=&quot;mm lq to m vl vm vn vo vp n cw do cf vq gy&quot;]/a[@class=&quot;be ap bf bn bh as bi ac at au av aw ax ay az cq vr&quot;]</value>
+      <webElementGuid>420a70bf-d97d-4c3c-87a7-62233190451b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[3]/div/main/div/div/div/div[3]/div[2]/a</value>
+      <webElementGuid>ee0701ac-745c-4384-b9c5-48f89f51f882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/@rakhacimano/list/uiux-4a3ab6b0a791?source=my_lists---------1-------4a3ab6b0a791---------------------')]</value>
+      <webElementGuid>26b40b0e-a9bf-4af3-8693-3c716d21fe66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>500f803f-cd3b-4282-860b-c00e5884b8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/@rakhacimano/list/uiux-4a3ab6b0a791?source=my_lists---------1-------4a3ab6b0a791---------------------']</value>
+      <webElementGuid>5c75227a-9364-4593-92d1-d65e907f42e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

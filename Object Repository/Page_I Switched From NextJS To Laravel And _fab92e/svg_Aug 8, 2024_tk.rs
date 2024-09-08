@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Aug 8, 2024_tk</name>
+   <tag></tag>
+   <elementGuidId>843bd737-c22c-4aa9-a0d9-cf29c781bad0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 8, 2024'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.tk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:label=&quot;responses&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f706030a-ba41-4539-9f28-a9278b359036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a5f6964e-fabe-4365-a0fd-14334e017bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>86e08f5a-e1b0-48bf-9732-f9f5769a1539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>15949c1b-006e-405b-ac30-0472dce7bc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>6571091b-7f93-43b9-9441-b78b7acacba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tk</value>
+      <webElementGuid>c49eefbb-61ab-4266-8883-cacf93339286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;rz sa sb sc sd x&quot;]/article[@class=&quot;meteredContent&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;x&quot;]/section[1]/div[1]/div[@class=&quot;lg sr pr hy ss&quot;]/div[@class=&quot;n p&quot;]/div[@class=&quot;df m dg dh di dj&quot;]/div[2]/div[1]/div[@class=&quot;speechify-ignore n do&quot;]/div[@class=&quot;speechify-ignore m x&quot;]/div[@class=&quot;n do um gz un hc uo up uq ur us ut uu uv uw ux uy uz&quot;]/div[@class=&quot;h k aj cc cd o&quot;]/div[2]/div[@class=&quot;bz&quot;]/button[@class=&quot;au jo mn wh n o cg jm pk&quot;]/svg[@class=&quot;tk&quot;]</value>
+      <webElementGuid>01ecb283-d961-4329-87fa-018d016e2fb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 8, 2024'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>87141157-432c-4d0d-8d34-4de7b98f8e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='·'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d170d707-1726-4e99-baa4-b394fa9b0d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Members Can Read For Free Here'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>61045d91-dbfc-448a-bd9b-99d1a823b702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>98414f1c-67b4-432e-aa0b-4057e2d8c294</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

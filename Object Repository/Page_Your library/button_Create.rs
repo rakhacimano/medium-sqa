@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create</name>
+   <tag></tag>
+   <elementGuidId>d5fb4e87-8f5a-4050-b110-51ec966c2cf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ar.b.bu.am.sv.ml.sx.sy.sz.ta.tb.mh.ld.fz.tc.td.lh.li.u.cs.bz.lj.lk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;creatListModalConfirmButton&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30d40df5-7e16-4c34-bbea-8673b14ace30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ar b bu am sv ml sx sy sz ta tb mh ld fz tc td lh li u cs bz lj lk</value>
+      <webElementGuid>8346da5c-002d-400a-9423-f97942109953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>creatListModalConfirmButton</value>
+      <webElementGuid>c3165ce9-fa71-4372-97e4-06c9f9a67f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>58379c26-4f95-4b8a-b04d-10f825f256d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;n o p vr vs vt vu vv vw z vx jy ij vy&quot;]/div[@class=&quot;vo vp vq&quot;]/div[@class=&quot;x cf&quot;]/div[@class=&quot;vz ll wa wb wc n o fb do wd we wf wg wh wi&quot;]/div[@class=&quot;wj wk n o fb p bd wl wm wh&quot;]/div[@class=&quot;n o fb&quot;]/div[@class=&quot;m n p&quot;]/div[@class=&quot;uk bz&quot;]/button[@class=&quot;ar b bu am sv ml sx sy sz ta tb mh ld fz tc td lh li u cs bz lj lk&quot;]</value>
+      <webElementGuid>6180fbc9-d0ab-4300-98ac-b2a9c1f02cb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>70d3c581-b699-466b-a751-415fc0034233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new list'])[1]/following::button[3]</value>
+      <webElementGuid>285aac02-c21f-4ebc-9a81-05c5bb216c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>32e96465-5555-41bb-a298-aea47262e9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>15eaa6b7-510f-4400-9286-65c2150628f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

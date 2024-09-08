@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>d00f2160-12c4-4dd5-a55f-4ca360f319e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Just now'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.be.cg.bf.bg.bh.as.bi.pi.at.au.av.fz.pm.pn.po.pp > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;More options&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>78c241e0-a4de-4984-80cb-32441fadf886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9c94c6e6-06e5-4a98-a4dd-7c79d193d97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>9d1a1f65-24e6-42bd-aec0-4303db70afa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>94457ac5-1488-427c-addb-9a6dc347fec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4afa8cf2-889d-421e-b209-0c85bc83a263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>4123b27b-0e4c-456c-b400-7aa3512ae1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;cu cv x&quot;]/div[@class=&quot;n cw cx&quot;]/main[@class=&quot;cy cz da db dc dd x de&quot;]/div[@class=&quot;ey n fb c&quot;]/div[@class=&quot;x bd&quot;]/div[@class=&quot;tt x&quot;]/div[1]/div[@class=&quot;n p&quot;]/div[@class=&quot;df m dg dh di dj&quot;]/div[@class=&quot;m x&quot;]/article[1]/div[@class=&quot;ms x&quot;]/div[@class=&quot;m ba&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;m x&quot;]/div[1]/div[@class=&quot;m mt mu mv mw&quot;]/div[@class=&quot;n&quot;]/div[@class=&quot;x de kf&quot;]/div[@class=&quot;h k&quot;]/div[@class=&quot;op oq or os ot tu ov tv ox tw x&quot;]/span[@class=&quot;ar b aq am ao&quot;]/div[@class=&quot;oz n do bd&quot;]/div[@class=&quot;n o pe pf&quot;]/div[@class=&quot;pl x&quot;]/div[@class=&quot;bz&quot;]/div[@class=&quot;bz&quot;]/div[@class=&quot;ub x fu&quot;]/div[1]/div[@class=&quot;bz&quot;]/button[@class=&quot;be cg bf bg bh as bi pi at au av fz pm pn po pp&quot;]/svg[1]</value>
+      <webElementGuid>0fa4a6ab-e59f-4b42-a19c-fe78c755f839</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just now'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>4016bffa-3880-42da-b45d-26371c57cd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is a Grid in Web Design?'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>2221063e-7af9-4688-b128-1ff47c933477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just now'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>91efd6f9-0643-44c7-81f9-ce91729fe138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is a Grid in Web Design?'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>6a5852a1-f461-4f29-ade1-08838b1af019</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

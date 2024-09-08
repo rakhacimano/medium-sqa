@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Library</name>
+   <tag></tag>
+   <elementGuidId>a10a46c0-8db1-41eb-91ec-94edfa938311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/div[6]/div/div/div/div/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lists Library&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>574dd9ac-6a42-42d9-8985-a0810de2b7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bf b bg z dv qq eb qr</value>
+      <webElementGuid>9d86ace4-8b1d-489b-8c4c-66ef31ba8e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Library</value>
+      <webElementGuid>764e170c-6561-42af-9738-7bf2dca92925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;l c&quot;]/div[@class=&quot;l m n o c&quot;]/div[@class=&quot;p q r ab ac&quot;]/div[@class=&quot;dm bp qh qi c jb qj&quot;]/div[@class=&quot;qk bp&quot;]/div[@class=&quot;qk ql&quot;]/div[@class=&quot;qm l&quot;]/div[@class=&quot;qn qo l&quot;]/a[@class=&quot;af ag ah ay aj ak al am an ao ap aq ar as at bh qp&quot;]/div[@class=&quot;bf b bg z dv qq eb qr&quot;]</value>
+      <webElementGuid>2a4ca6bb-7583-4588-ac9a-fcea6e196a2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/div[6]/div/div/div/div/a[2]/div</value>
+      <webElementGuid>4efcddc6-ae69-4601-8739-caae4e7888ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/following::div[23]</value>
+      <webElementGuid>aacd6c98-5cf7-4451-a75c-b13154f33cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in app'])[1]/following::div[33]</value>
+      <webElementGuid>0e38d026-f4c7-4070-a302-fa236c46530d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[9]</value>
+      <webElementGuid>9528e2d5-0f51-4395-abd1-7e44727309d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine recommendations'])[1]/preceding::div[10]</value>
+      <webElementGuid>90dcc8fb-fdd6-4245-bc74-74712c8f101c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>eab5ef7a-12a2-47ec-bada-c24f093698dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Library' or . = 'Library')]</value>
+      <webElementGuid>40c05e94-7cd2-49b9-ab40-bf47a7f60fe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

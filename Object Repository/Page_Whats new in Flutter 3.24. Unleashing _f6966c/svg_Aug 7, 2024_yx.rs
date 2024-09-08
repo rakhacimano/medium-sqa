@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Aug 7, 2024_yx</name>
+   <tag></tag>
+   <elementGuidId>a0bcf915-2826-443c-981a-11535913ada2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 7, 2024'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.yx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:label=&quot;responses&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b4ed7fda-edd7-43e3-aced-5676371ca6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>f628d629-3936-43d4-a435-27004a5b8d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>9d39817d-e47d-47bb-a9ff-45cae7666ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>9c87e602-043a-4b39-8e09-244aeabbb9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>73996990-ab9c-4a85-a4e0-33b71960e577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yx</value>
+      <webElementGuid>3ebfd62c-a5a3-4a20-8492-80009f0c7261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;uq ur us ut uu x&quot;]/article[1]/div[@class=&quot;x&quot;]/div[@class=&quot;x&quot;]/section[1]/div[1]/div[@class=&quot;kf vb pr hy vc&quot;]/div[@class=&quot;n p&quot;]/div[@class=&quot;df m dg dh di dj&quot;]/div[2]/div[1]/div[@class=&quot;speechify-ignore n do&quot;]/div[@class=&quot;speechify-ignore m x&quot;]/div[@class=&quot;n do xc gz xd hc xe xf xg xh xi xj xk xl xm xn xo xp&quot;]/div[@class=&quot;h k aj cc cd o&quot;]/div[2]/div[@class=&quot;bz&quot;]/button[@class=&quot;au jo mn yy n o cg jm pk&quot;]/svg[@class=&quot;yx&quot;]</value>
+      <webElementGuid>821d679f-6cdb-482e-a97a-90fe2770a608</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 7, 2024'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7890e048-e09b-4d93-afcc-5152f08f4198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='·'])[3]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3161e8d2-ae55-4977-8c49-73377590552e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flutter 3.24 on a blue background'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>319cea68-d41a-49b1-9330-a3f96c69fb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flutter Framework'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>e3b09b3b-9616-4843-9014-524851c0a6ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

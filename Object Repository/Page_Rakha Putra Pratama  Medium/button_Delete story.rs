@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete story</name>
+   <tag></tag>
+   <elementGuidId>d7b9b9b3-cb59-4d98-8ebc-12d87aec7969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='creatorActionOverflowMenu']/ul/li[8]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.un.ap.bf.bg.bh.as.bi.ac.at.au.av.aw.ax.uo.az</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Delete story&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2bc4b40-ad7c-46af-9177-1b0ffda83c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>un ap bf bg bh as bi ac at au av aw ax uo az</value>
+      <webElementGuid>f37b5e65-60dd-474f-9ff9-47d35678b5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete story</value>
+      <webElementGuid>81c464cd-6f1e-41bc-af6e-d7c9dbf5002c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;creatorActionOverflowMenu&quot;)/ul[@class=&quot;ui oo n uj fb&quot;]/li[@class=&quot;ar b bu ao uk&quot;]/button[@class=&quot;un ap bf bg bh as bi ac at au av aw ax uo az&quot;]</value>
+      <webElementGuid>4641d1bc-edc8-485e-8b67-2b272df3431f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='creatorActionOverflowMenu']/ul/li[8]/button</value>
+      <webElementGuid>7bc8bbd7-f73e-4558-b668-9ae6764ca065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide responses'])[1]/following::button[1]</value>
+      <webElementGuid>e64b23a4-6d93-4702-85cc-fa46e5b1d3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>598674e1-0a49-49cc-83fd-d56609967a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/button</value>
+      <webElementGuid>2c20d51e-928f-4dad-a697-6a9c3de6b421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Delete story' or . = 'Delete story')]</value>
+      <webElementGuid>87d7eeb4-b294-40af-94fa-4aae3758de18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

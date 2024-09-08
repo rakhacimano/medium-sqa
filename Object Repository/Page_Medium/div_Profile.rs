@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile</name>
+   <tag></tag>
+   <elementGuidId>86cf27c5-0bbe-4800-918f-a5b6acd94812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/div[6]/div/div/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qw.jf.x > a.be.ap.bf.bn.bh.as.bi.ac.at.au.av.aw.ax.ay.az.m.qx > div.ar.b.bu.am.ao.qy.ch.qz > div.n.o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Profile Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f0e3d93-83ed-43fc-861e-b00405c9560e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>n o</value>
+      <webElementGuid>0f53b99f-94e1-4c3e-b731-c006082c0f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile</value>
+      <webElementGuid>f42521b2-21b9-4494-85b6-4c2959c606b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;x y z ab c&quot;]/div[@class=&quot;bb o ae n bc&quot;]/div[@class=&quot;cs li qt or c lr qu&quot;]/div[@class=&quot;pc li&quot;]/div[@class=&quot;pc pe&quot;]/div[@class=&quot;qv x&quot;]/div[@class=&quot;qw jf x&quot;]/a[@class=&quot;be ap bf bn bh as bi ac at au av aw ax ay az m qx&quot;]/div[@class=&quot;ar b bu am ao qy ch qz&quot;]/div[@class=&quot;n o&quot;]</value>
+      <webElementGuid>9b215bc8-5637-4071-afb2-307bebf2f4fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/div[6]/div/div/div/div/a/div/div</value>
+      <webElementGuid>a9687a5f-46d2-4ce2-a289-cd0a63353605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/following::div[21]</value>
+      <webElementGuid>5f02aaed-c31b-48c8-bd9c-b9137a3c2eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in app'])[1]/following::div[31]</value>
+      <webElementGuid>aa8b1389-47cc-4d46-802d-22f3d849d864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[11]</value>
+      <webElementGuid>674b8432-71b4-4fbe-be86-6d492a1e9ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine recommendations'])[1]/preceding::div[12]</value>
+      <webElementGuid>564f4630-f281-49c0-ba56-03586f62333f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/a/div/div</value>
+      <webElementGuid>44be345b-beca-4a0e-8183-b1f3bb1aaae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile' or . = 'Profile')]</value>
+      <webElementGuid>03655cf1-96a9-45f1-9cf0-104d36090b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/div[6]/div/div/div/div/a/div</value>
+      <webElementGuid>bd9f2246-8a19-4c1f-94ba-057ae8216d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/following::div[20]</value>
+      <webElementGuid>2eead14f-f8de-48fa-a149-e3e482951a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open in app'])[1]/following::div[30]</value>
+      <webElementGuid>93a1b6d2-16e0-4945-8bf4-108112c71e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[12]</value>
+      <webElementGuid>6d138468-817c-4b87-9a88-fcf7c8f457cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine recommendations'])[1]/preceding::div[13]</value>
+      <webElementGuid>0a2d9db3-0839-4ea5-a8eb-932b08de9980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/a/div</value>
+      <webElementGuid>dd819ca0-5dbe-4632-a492-0eff6fed43f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

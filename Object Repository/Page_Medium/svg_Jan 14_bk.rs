@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Jan 14_bk</name>
+   <tag></tag>
+   <elementGuidId>235ea5fb-48a8-4911-82a5-0dc7b1507cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 14'])[1]/following::*[name()='svg'][4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.be.cg.bf.bg.bh.as.bi.ph.at.au.av.fz.pi.pj.jw > svg.bk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;J.D Christie J.D Christie in AWS Tip Building a Clean and Scalable Frontend Architecture Digital and technological development continues unstoppable, so, if we talk about the design of web applications, we cannot lose sight of… Member-only story Jan 14 987 6 Show less like this Add to list bookmark button More options Building a Clean and Scalable Frontend Architecture&quot;i] >> internal:label=&quot;Add to list bookmark button&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>77fd1a6c-9ddb-468b-a2e6-6edf03ad8345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>fd0edc52-f2b8-4b07-ba9d-ef5a12c04b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>fe48bbe7-64d3-42e7-b419-75fd5d44256b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>e8ad0e87-c257-4d0f-a1fa-f205b6f3787c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>d0e878f1-5004-44f1-aacd-72fa8d3cd954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>b75f2222-07cb-4ae8-8268-97ac5c51b926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bk</value>
+      <webElementGuid>d72df898-d373-4450-84c8-650a44c8fec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;cu cv x&quot;]/div[@class=&quot;n cw cx&quot;]/main[@class=&quot;cy cz da db dc dd x de&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;ed x&quot;]/div[1]/div[@class=&quot;gk mp mq mr&quot;]/div[@class=&quot;n p&quot;]/div[@class=&quot;df m dg dh di dj&quot;]/div[@class=&quot;qr m x&quot;]/article[1]/div[@class=&quot;ke x&quot;]/div[@class=&quot;m ba&quot;]/div[@class=&quot;x&quot;]/div[@class=&quot;m x&quot;]/div[1]/div[@class=&quot;m ms mt mu mv&quot;]/div[@class=&quot;n&quot;]/div[@class=&quot;x de kj&quot;]/div[@class=&quot;h k&quot;]/div[@class=&quot;oo op oq or os ot ou ov ow ox x&quot;]/span[@class=&quot;ar b aq am ao&quot;]/div[@class=&quot;oy n do bd&quot;]/div[@class=&quot;n o pd pe&quot;]/div[@class=&quot;h k&quot;]/div[1]/div[@class=&quot;bz&quot;]/div[@class=&quot;bz&quot;]/button[@class=&quot;be cg bf bg bh as bi ph at au av fz pi pj jw&quot;]/svg[@class=&quot;bk&quot;]</value>
+      <webElementGuid>b75ab879-4e28-45e4-a9db-d05c74a29a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 14'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>21cf6e67-4459-43a6-b43f-8bf53328b6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building a Clean and Scalable Frontend Architecture'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>860089ee-29c1-4d82-9c5a-79ac3a680f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 14'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>e072beb6-2036-43d0-b0dc-02c44561a6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Coding with Cursor] How Cursor Developed My First MacOS App — RSS Reader'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>4197edaa-ae3e-4fcc-9864-eff39da566d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

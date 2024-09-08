@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Write_cn s x co cp cq z bn cr</name>
+   <tag></tag>
+   <elementGuidId>ef9ff752-c262-4298-a682-319dfb56cb20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/div[5]/button/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cn.s.x.co.cp.cq.z.bn.cr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;headerUserIcon&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef86dce5-d640-459f-82b2-90228270e6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cn s x co cp cq z bn cr</value>
+      <webElementGuid>894b050e-8f5f-44e9-8a2c-ca8e449b16e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;a b c&quot;]/div[@class=&quot;x c&quot;]/div[@class=&quot;x y z ab c&quot;]/div[@class=&quot;bb o ae n bc&quot;]/div[@class=&quot;x&quot;]/button[@class=&quot;bn cj ac n o au ck cl cm&quot;]/div[@class=&quot;x cf&quot;]/div[@class=&quot;x cf&quot;]/div[@class=&quot;cn s x co cp cq z bn cr&quot;]</value>
+      <webElementGuid>bb51efad-3c0d-4cb5-9e13-41e74cbb9afb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/div[5]/button/div/div/div</value>
+      <webElementGuid>c04df5e4-14a1-4d7c-8143-d86090490d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>0f3c1ff6-d8e9-4da2-ba15-3397fa24329c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
